@@ -1,0 +1,1 @@
+execute as @a at @s if entity @s run function psychoactive:kosyak/kosyak
